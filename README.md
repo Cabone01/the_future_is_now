@@ -1,4 +1,5 @@
-### the_future_is_now
+### "The Future is Now, Old Man":
+Science Fiction, Funding and Finances
 
 <img src="https://github.com/Cabone01/the_future_is_now/blob/main/RawData/thefutureisnow.png" width="600">
 
