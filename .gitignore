@@ -1,0 +1,4 @@
+# this is a file to ignore the following files
+
+# ignore my API file
+config.py
